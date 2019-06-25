@@ -16,8 +16,8 @@ These datasets are included in the project:
 9. Haberman’s survival
 10. Magic gamma telescope
 11. Seed
-12. Artificila Dataset1
-13. Artificila Dataset2
+12. Artificial Dataset1
+13. Artificial Dataset2
 14. Tae
 15. Banana
 16. Balance
