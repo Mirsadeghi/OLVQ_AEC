@@ -30,7 +30,7 @@ These datasets are included in the project:
 simply run ```olvq_AEC``` and choose one of the above mentioned datasets.
 
 ## Results
-| Dataset | OLVQ Error rate(%) | OLVQ+Adaptive DIstnace Error rate(%) |
+| Dataset | OLVQ Error rate(%) | OLVQ+Adaptive Distnace Error rate(%) |
 | ------- | ------------------ | ------------------------------------ |
 | 'Iris' | 14.13 | 5.33 |
 | 'Glass' | 15.51 | 30.49 |   
